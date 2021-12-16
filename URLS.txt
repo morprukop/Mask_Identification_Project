@@ -1,8 +1,0 @@
-
-Item no.: 1 --> Item name = People in facemasks
-Evaluating...
-Starting Download...
-
-Errors: 0
-
-({'People in facemasks': []}, 0)
